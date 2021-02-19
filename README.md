@@ -1,5 +1,7 @@
 # lesson_1_operators
 
+Inspired be resocoder.com
+
 A new Flutter project.
 
 ## Getting Started
